@@ -18,6 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <h1>Mohit started CI CD</h1>
+          <h1>just Getting vercel</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
